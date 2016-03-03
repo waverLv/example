@@ -1,2 +1,2 @@
-git is a software
-git is a prefect tool
+git is a distributed controller software
+git is a free tool
